@@ -90,7 +90,8 @@ public class Main {
                 }
             }
             else if(opcija == 3){
-                int cijena = korpa.dajUkupnuCijenuArtikala(), iznos;
+                int cijena = korpa.dajUkupnuCijenuArtikala();
+                int iznos;
                 System.out.println("Ukupna cijena je " + korpa.dajUkupnuCijenuArtikala() + " KM.");
                 do{
                     System.out.print("Unesite ispravan iznos: ");
