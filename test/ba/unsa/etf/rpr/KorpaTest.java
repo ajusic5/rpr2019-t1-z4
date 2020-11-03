@@ -48,6 +48,14 @@ class KorpaTest {
         assertEquals(0, k.dajUkupnuCijenuArtikala());
     }
 
+    @Test
+    void testiranjeIzbacivanjaArtiklaKojegNemaUKorpi(){
+
+        Artikl a=k.izbaciArtiklSaKodom("1007");
+        assertNull(a);
+
+    }
+
 
 
 
