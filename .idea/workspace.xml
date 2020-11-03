@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2df4f1c-5536-40ca-8a75-7578650c3b8d" name="Default Changelist" comment="Dodan prvi test u klasu Korpa, testira se dodavanje artikla u praznu korpu">
-      <change afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/SupermarketTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rpr2019-t1-z4/ba/unsa/etf/rpr/Korpa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rpr2019-t1-z4/ba/unsa/etf/rpr/Korpa.class" afterDir="false" />
+    <list default="true" id="c2df4f1c-5536-40ca-8a75-7578650c3b8d" name="Default Changelist" comment="Dodana još 4 testa u klasu korpa, te kreirana testna klasa za klasu supermarket">
       <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/KorpaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/KorpaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/SupermarketTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +129,7 @@
       <workItem from="1603968557587" duration="873000" />
       <workItem from="1604041557495" duration="22000" />
       <workItem from="1604411121901" duration="209000" />
-      <workItem from="1604415709683" duration="2854000" />
+      <workItem from="1604415709683" duration="3233000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1603967259525</created>
@@ -161,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604417327743</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dodana još 4 testa u klasu korpa, te kreirana testna klasa za klasu supermarket">
+      <created>1604418809761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604418809761</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +187,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Dodan prvi test u klasu Korpa, testira se dodavanje artikla u praznu korpu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodan prvi test u klasu Korpa, testira se dodavanje artikla u praznu korpu" />
+    <MESSAGE value="Dodana još 4 testa u klasu korpa, te kreirana testna klasa za klasu supermarket" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodana još 4 testa u klasu korpa, te kreirana testna klasa za klasu supermarket" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1603963671783">
