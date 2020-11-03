@@ -3,7 +3,6 @@ package ba.unsa.etf.rpr;
 public class Korpa {
     private Artikl[] artikli=new Artikl[50];
     private int brojProizvoda=0;
-
     public boolean dodajArtikl(Artikl a){
 
         if(brojProizvoda<50) {
@@ -32,7 +31,6 @@ public class Korpa {
         }
         return null;
     }
-
     public Artikl[] getArtikli() {
         return artikli;
     }

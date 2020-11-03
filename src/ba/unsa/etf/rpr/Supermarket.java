@@ -3,14 +3,11 @@ package ba.unsa.etf.rpr;
 
 public class Supermarket {
 
-
     private Artikl[] artikli=new Artikl[1000];
     private int brojArtikalaUSupermarketu=0;
-
     public Artikl[] getArtikli() {
         return artikli;
     }
-
     public boolean dodajArtikl(Artikl a){
 
         if(brojArtikalaUSupermarketu<1000){
@@ -20,7 +17,6 @@ public class Supermarket {
         }
         return false;
     }
-
     Artikl izbaciArtiklSaKodom(String kod){
 
         for(int i=0; i<brojArtikalaUSupermarketu; i++){
